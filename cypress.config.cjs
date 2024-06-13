@@ -13,10 +13,6 @@ module.exports = defineConfig({
     env: {
       viewportWidthBreakpoint: 768,
     },
-    
-    // Configuração dos eventos do Node (opcional)
-    setupNodeEvents(on, config) {
-      // implemente os ouvintes de eventos do Node aqui, se necessário
-    },
   },
+  projectId: 'kygu1n',
 });
