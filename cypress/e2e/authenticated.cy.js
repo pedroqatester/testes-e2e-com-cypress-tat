@@ -1,4 +1,6 @@
 /* eslint-disable linebreak-style */
+/// <reference path="../support/commands.d.ts" />
+/* eslint-disable linebreak-style */
 // cypress/e2e/authenticated.cy.js
 
 import { faker } from '@faker-js/faker/locale/en'
